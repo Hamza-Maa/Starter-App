@@ -6,6 +6,7 @@ Welcome to the **Starter App** repository! This project serves as a foundational
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Screenshots](#Screenshots)
 - [Getting Started](#getting-started)
 - [Directory Structure](#directory-structure)
 - [Usage](#usage)
@@ -31,6 +32,15 @@ This starter app includes the following features:
 - **Flutter**: Framework for building the mobile application.
 - **Riverpod**: State management solution for Flutter.
 - **MockAPI**: For simulating API calls and responses.
+
+## Screenshots
+
+<p align="center">
+  <img src="Screenshots/login.png" alt="login" width="300"/>
+  <img src="Screenshots/signup.png" alt="signup" width="300"/>
+  <img src="Screenshots/homepage.png" alt="homepage" width="300"/>
+  <img src="Screenshots/drawer.png" alt="drawer" width="300"/>
+</p>
 
 ## Getting Started
 

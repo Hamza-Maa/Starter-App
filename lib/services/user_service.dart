@@ -5,7 +5,7 @@ import '../models/user_model.dart';
 
 class UserService {
   final Dio _dio = Dio();
-  final String baseUrl = 'https://66f6c667436827ced9786894.mockapi.io/users';
+  final String baseUrl = 'API KEY';
 
   // Fetch all users (could be used for signup or login)
   Future<List<UserModel>> fetchUsers() async {

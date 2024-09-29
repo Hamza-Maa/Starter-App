@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 import '../models/post_model.dart';
 
 class PostService {
-  final String baseUrl = 'https://66f6c667436827ced9786894.mockapi.io/posts';
+  final String baseUrl = 'API KEY';
 
   // Fetch all posts
   Future<List<Post>> fetchPosts() async {
